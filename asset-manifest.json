@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Video-repo/static/css/main.a39bdf65.chunk.css",
+    "main.js": "/Video-repo/static/js/main.370e4593.chunk.js",
+    "main.js.map": "/Video-repo/static/js/main.370e4593.chunk.js.map",
+    "runtime-main.js": "/Video-repo/static/js/runtime-main.eeef7487.js",
+    "runtime-main.js.map": "/Video-repo/static/js/runtime-main.eeef7487.js.map",
+    "static/js/2.e3484aa8.chunk.js": "/Video-repo/static/js/2.e3484aa8.chunk.js",
+    "static/js/2.e3484aa8.chunk.js.map": "/Video-repo/static/js/2.e3484aa8.chunk.js.map",
+    "static/js/3.d8e41d4b.chunk.js": "/Video-repo/static/js/3.d8e41d4b.chunk.js",
+    "static/js/3.d8e41d4b.chunk.js.map": "/Video-repo/static/js/3.d8e41d4b.chunk.js.map",
+    "index.html": "/Video-repo/index.html",
+    "static/css/main.a39bdf65.chunk.css.map": "/Video-repo/static/css/main.a39bdf65.chunk.css.map",
+    "static/js/2.e3484aa8.chunk.js.LICENSE.txt": "/Video-repo/static/js/2.e3484aa8.chunk.js.LICENSE.txt",
+    "static/media/video-repo.e5cbf774.JPG": "/Video-repo/static/media/video-repo.e5cbf774.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeef7487.js",
+    "static/js/2.e3484aa8.chunk.js",
+    "static/css/main.a39bdf65.chunk.css",
+    "static/js/main.370e4593.chunk.js"
+  ]
+}
